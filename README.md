@@ -1,2 +1,2 @@
 # PAMD2021
-Predictive Analytics and Mofelling of Data 2021
+Predictive Analytics and Modelling of Data 2021
